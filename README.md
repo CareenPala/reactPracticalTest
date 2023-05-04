@@ -1,11 +1,11 @@
 # reactPracticalTest
 1) In the project directory run  => <b>npm i </b> to install dependencies for node 
-2) Navigate to the client folder and run =>  <b>npm i </b> to install dependencies for react and redux
-3) To run the react front end navigate to the src folder and run => <b> npm start </b>
+2) Navigate to the main folder and run =>  <b>npm i </b> to install dependencies for react and redux
+3) To run the react front end navigate to the main folder and run => <b> npm start </b>
 4) In your browser url type <b>localhost:3000</b> to access the project.
 
 ### Information regarding the Project.
-1) In the  firstpage the  API hardcoded responses in 3000 milliseconds.
+1) In the firstpage the  API hardcoded responses after delay is 3000 ms.
 2) The API response data is saved to the <b>Redux store</b>.
 3) To confirm data has been saved in the store the <b>useSelector hook</b> is used and consoled.
 4) The Application is <b>mobile responsive</b>.
